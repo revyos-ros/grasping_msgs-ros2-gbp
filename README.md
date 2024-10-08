@@ -1,3 +1,26 @@
+## grasping_msgs (jazzy) - 0.5.0-1
+
+The packages in the `grasping_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy grasping_msgs --override-release-repository-push-url git@github.com:revyos-ros/grasping_msgs-ros2-gbp.git` on `Tue, 08 Oct 2024 09:23:23 -0000`
+
+The `grasping_msgs` package was released.
+
+Version of package(s) in repository `grasping_msgs`:
+
+- upstream repository: https://github.com/mikeferguson/grasping_msgs.git
+- release repository: https://github.com/revyos-ros/grasping_msgs-ros2-gbp.git
+- rosdistro version: `0.5.0-1`
+- old version: `null`
+- new version: `0.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## grasping_msgs (iron) - 0.4.0-1
 
 The packages in the `grasping_msgs` repository were released into the `iron` distro by running `/usr/bin/bloom-release -r iron -t iron grasping_msgs` on `Sat, 16 Dec 2023 16:43:39 -0000`
